@@ -27,3 +27,7 @@ Pour répondre à cette problématique, nous allons récupérer les données sur
 <h2>Fait le 15/05/2026 par GENTI Edwin</h2>
 
 <h2>Sources et références</h2>
+Eurostat. (2025). Base de données. https://ec.europa.eu/eurostat/fr/data/database
+<br>
+Compagniesmarketcap.com. (2025). Revenus pour Ryanair. https://companiesmarketcap.com/fr/ryanair/revenu/
+
